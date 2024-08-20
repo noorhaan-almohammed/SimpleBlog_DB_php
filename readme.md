@@ -1,5 +1,4 @@
 Simple Blog Database :
-Simple Blog Database :
 This site displays posts with the ability to edit, delete, add (CRUD operations) and add a like or dislike.
  Add or change an image to the post with a default image if no image is added with the ability to preview before saving or deleting it.
 
